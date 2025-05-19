@@ -54,7 +54,8 @@ int main() {
 ```
 ##OUTPUT
 
-![Screenshot 2025-05-17 143044](https://github.com/user-attachments/assets/c94a0c6b-b5a0-42c7-8112-77100a007e0b)
+![Screenshot 2025-05-19 203050](https://github.com/user-attachments/assets/88d589c3-a8b0-4fdd-b798-199bb76a8e82)
+
 
 
 ## C Program to execute Linux system commands using Linux API system calls exec() , exit() , wait() family
@@ -103,7 +104,7 @@ int main() {
 ##OUTPUT
 
 
-![Screenshot 2025-05-17 143515](https://github.com/user-attachments/assets/6f04a627-910a-4611-8883-0a0635ae4ad6)
+![Screenshot 2025-05-19 203335](https://github.com/user-attachments/assets/9af4309d-6849-47ae-85f6-dfb5292b807c)
 
 
 # RESULT:
